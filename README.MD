@@ -1,5 +1,7 @@
 # Python Cleanup Script
 
+# ** Note. I didn't proofread any of this.
+
 ![Python Cleanup](https://github.com/whalelinguni/PythonCleanup/blob/main/Untitled.png)
 
 This PowerShell script is designed to clean up any remaining traces of Python installations on a Windows system. It also offers the option to download and run Geek Uninstaller to ensure a thorough cleanup.
